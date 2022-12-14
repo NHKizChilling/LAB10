@@ -11,7 +11,7 @@ int main()
     system("cls");
     int n;
     int a[n];
-    int *max;
+    int max_1st, max_2nd;
     input(a, n);
     output(a, n);
     printf("So lon nhat la: %d", max1st(a,n));
